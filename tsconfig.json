@@ -7,5 +7,5 @@
     "esModuleInterop": true,
     "strict": true
   },
-  "include": ["src" , "test"], // ensure to include only files in src
+  "include": ["src" ], // ensure to include only files in src
 }
