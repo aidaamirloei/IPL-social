@@ -8,9 +8,8 @@
 
 ##Description
 
-The project "IPL Social" is a simple project that verifies if an intery emain is correct base of the written dtandards
+The project "IPL Social" is a simple project that verifies if an entery email is correct base of the written standards
 
----
 
 ## Code Explanation
 
@@ -20,9 +19,9 @@ The function must verify that a string of characters is a valid email address:
 3 It cannot contain any spaces
 4 It must have text before and after the @ symbol
 
-## ▶️ How to Run Tests
+## How to Run Tests
 
-### 1. Install dependencies
+###  Install dependencies
 
 npm install
 
