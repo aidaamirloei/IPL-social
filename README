@@ -1,0 +1,30 @@
+# IPL Social
+
+## Author
+- **Name:** Aida Amirloei  
+- **Vinci Email:** aida.amirloei@student.vinci.be 
+- **GitHub Repository:** 
+
+---
+
+##Description
+
+The project "IPL Social" is a simple project that verifies if an intery emain is correct base of the written dtandards
+
+---
+
+##  Code Explanation
+
+La fonction doit vérifier qu’une chaine de caractère est bien une adresse email valide :
+a. Il doit contenir au moins un @
+b. Il doit contenir au moins un point dans le nom de domaine (et pas le dernier caractère
+c. Il ne peut contenir aucun espace
+d. Il doit avoir du texte avant et après le @
+
+## ▶️ How to Run Tests
+
+### 1. Install dependencies
+
+npm install
+## then
+ npm test
