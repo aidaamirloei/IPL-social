@@ -15,11 +15,11 @@ The project "IPL Social" is a simple project that verifies if an intery emain is
 
 ##  Code Explanation
 
-La fonction doit vérifier qu’une chaine de caractère est bien une adresse email valide :
-a. Il doit contenir au moins un @
-b. Il doit contenir au moins un point dans le nom de domaine (et pas le dernier caractère
-c. Il ne peut contenir aucun espace
-d. Il doit avoir du texte avant et après le @
+The function must verify that a string of characters is a valid email address:
+1 It must contain at least one @ symbol
+2 It must contain at least one period in the domain name (not the last character)
+3 It cannot contain any spaces
+4 It must have text before and after the @ symbol
 
 ## ▶️ How to Run Tests
 
