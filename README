@@ -1,10 +1,10 @@
 # IPL Social
 
 ## Author
-- **Name:** Aida Amirloei  
-- **Vinci Email:** aida.amirloei@student.vinci.be 
-- **GitHub Repository:** https://github.com/aidaamirloei/IPL-social.git
 
+- **Name:** Aida Amirloei
+- **Vinci Email:** aida.amirloei@student.vinci.be
+- **GitHub Repository:** https://github.com/aidaamirloei/IPL-social.git
 
 ##Description
 
@@ -12,7 +12,7 @@ The project "IPL Social" is a simple project that verifies if an intery emain is
 
 ---
 
-##  Code Explanation
+## Code Explanation
 
 The function must verify that a string of characters is a valid email address:
 1 It must contain at least one @ symbol
@@ -25,5 +25,7 @@ The function must verify that a string of characters is a valid email address:
 ### 1. Install dependencies
 
 npm install
+
 ## then
- npm test
+
+npm test
