@@ -1,5 +1,5 @@
 export function validateEmail(email: string): boolean {
-    // 1. Must not contain spaces
+    // must not contain spaces
     if (email.includes(" ")) return false;
 
     // 2. Must contain at least one '@'
